@@ -1,5 +1,4 @@
 # openreportv2
-Automatically exported from code.google.com/p/openreportv2
 
 Open Report V2
 
